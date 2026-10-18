@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="btn_height">56dp</dimen>
+    <dimen name="corner_radius">18dp</dimen>
+</resources>

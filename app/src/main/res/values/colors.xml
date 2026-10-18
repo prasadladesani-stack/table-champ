@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg">#11142B</color>
+    <color name="panel">#1E2343</color>
+    <color name="purple">#6C63FF</color>
+    <color name="mint">#43DCB4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="muted">#B8BEDC</color>
+</resources>

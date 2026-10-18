@@ -1,0 +1,2 @@
+rootProject.name = "TableChamp"
+include(":app")
